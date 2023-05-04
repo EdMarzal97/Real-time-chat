@@ -1,0 +1,22 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "description": "real-time-chat-app usin node and socketio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdMarzal97/Real-time-chat.git"
+  },
+  "keywords": [
+    "realtimechat"
+  ],
+  "author": "EdSanchezMarzal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdMarzal97/Real-time-chat/issues"
+  },
+  "homepage": "https://github.com/EdMarzal97/Real-time-chat#readme"
+}
